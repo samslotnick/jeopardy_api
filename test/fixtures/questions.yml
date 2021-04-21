@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  round: 1
+  prompt: MyText
+  answer: MyText
+  value: 1
+  seen: false
+  game: one
+  user: one
+
+two:
+  round: 1
+  prompt: MyText
+  answer: MyText
+  value: 1
+  seen: false
+  game: two
+  user: two

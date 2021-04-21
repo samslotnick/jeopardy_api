@@ -1,0 +1,1 @@
+json.(question, :round, :category, :prompt, :value, :answer, :created_at, :updated_at)
